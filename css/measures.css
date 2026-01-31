@@ -1,0 +1,9 @@
+.pix {
+    border: darkblue solid 1px;
+    width: 500px;
+}
+
+.percent {
+    border: darkblue solid 1px;
+    width: 50%;
+}
